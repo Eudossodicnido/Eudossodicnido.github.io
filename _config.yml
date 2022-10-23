@@ -27,7 +27,7 @@ avatar_image: /img/Luca Costantino_sq.jpg
 linkedln: "https://www.linkedin.com/in/lucacostan/" # Add your linkedln handle
 github: "https://github.com/Eudossodicnido"  # Add your github handle
 
-paginate: 6
+paginate: 28
 paginate_path: "/page/:num"
 
 sass:
